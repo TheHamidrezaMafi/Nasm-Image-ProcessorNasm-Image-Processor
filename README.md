@@ -29,4 +29,15 @@ This project implements various image processing operations in Assembly and Pyth
 
 ---
 
-## Example Images
+## 🖼️ Example Images
+> Below are some snapshots showing different states of the game:
+
+<p align="center">
+  <img src="output_image_resized.jpg" width="45%" alt="resized">
+  <img src="output_image_gaussian_blur.jpg" width="45%" alt="gaussian_blur">
+</p>
+<p align="center">
+  <img src="output_image_edge_detection.jpg" width="45%" alt="edge_detection">
+  <img src="output_image_grayscaled.jpg" width="45%" alt="grayscaled">
+</p>
+
